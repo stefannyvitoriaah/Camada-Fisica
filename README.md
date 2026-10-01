@@ -1,4 +1,4 @@
-😶‍🌫️Integrantes: Leilla Mendes da silva RA: 2515652; Stefanny Vitoria da Costa Rosa RA:
+😶‍🌫️Integrantes: Leilla Mendes da silva RA: 2515652; Stefanny Vitoria da Costa Rosa RA: 2747103
 
 # 1. Fundamentação Teórica
 # 1.1. Apresentação Resumida das 7 Camadas do Modelo ISO/OSI
