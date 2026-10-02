@@ -63,7 +63,7 @@ Na transmissão de dados acústicos, as perturbações físicas do meio (ruído 
 
 O Método 1 implementa uma transmissão digital baseada na detecção de pulsos sonoros (batidas) no domínio do tempo.
 
-** Síntese do Sinal (Transmissor):
+* Síntese do Sinal (Transmissor):
   
  ° Geração da Batida (_criar_batida): O som da batida é gerado sinteticamente combinando três frequências fundamentais/harmônicas (850 Hz, 1700 Hz e 3200 Hz) atenuadas por um envelope exponencial decrescente ((-65.0t)).
 
