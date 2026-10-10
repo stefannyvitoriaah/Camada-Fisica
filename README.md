@@ -131,7 +131,6 @@ Esses resultados comprovam o funcionamento **nas condições testadas com captur
 
 **Integrantes:** Leilla Mendes da Silva, Stefanny Vitoria da Costa Rosa, Icaro de Souza Feitosa.
 
-> **A completar pela equipe:** ### Divisão de tarefas – Processador A
 
 - **Stefanny:** Responsável pela elaboração da estrutura inicial de todos os códigos do projeto.
 - **Leila:** Responsável pela revisão, correção e aprimoramento dos códigos, elaboração e execução dos casos de teste, desenvolvimento do relatório e produção do vídeo de apresentação.
